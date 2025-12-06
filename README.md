@@ -56,3 +56,8 @@ IAM Role needs to be created while creating rule in order to allow Glue to trigg
 <img width="2457" height="1223" alt="image" src="https://github.com/user-attachments/assets/66c35c6f-9fdb-4a15-9ed4-0667edcc9d57" />
 <img width="1339" height="461" alt="image" src="https://github.com/user-attachments/assets/1e5f8692-b102-41d5-9b6a-156bf6c18f84" />
 </p>
+
+Data Lake Target file is generated once workflow is succeeded -
+<p align = "Center">
+<img width="1715" height="605" alt="image" src="https://github.com/user-attachments/assets/56c36f10-361c-4a9c-be4d-65b6fd0b9856" />
+</p>
