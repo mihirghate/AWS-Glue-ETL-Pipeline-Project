@@ -9,7 +9,7 @@
 
 ### Amazon S3 - We have created one bucket with two folders -
 #### Bucket --> mg-etl-pipeline
-#### Folders --> extract/ and data-lake-target/
+#### Folders --> extract/ & data-lake-target/
 #### Extract folder is the Data Staging Area where CSV file is placed that is source file and Data Lake Target folder is target location where data is loaded after successful transformation.
 <p align = "Center">
 <img width="1723" height="627" alt="image" src="https://github.com/user-attachments/assets/bb0a727c-8ed9-4e43-816e-ebbeea1a8c95" />
