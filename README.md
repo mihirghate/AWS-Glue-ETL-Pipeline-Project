@@ -61,3 +61,5 @@ Data Lake Target file is generated once workflow is succeeded -
 <p align = "Center">
 <img width="1715" height="605" alt="image" src="https://github.com/user-attachments/assets/56c36f10-361c-4a9c-be4d-65b6fd0b9856" />
 </p>
+
+CloudWatch logs were enabled for realtime monitoring of logs. Separate log paths were created for S3-Lambda-Glue and EventBridge Event.
